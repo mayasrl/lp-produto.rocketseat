@@ -21,6 +21,7 @@ Este projeto é uma landing page do **Zingen**, um aplicativo de karaokê que pe
 
 ---
 
+![image](https://github.com/user-attachments/assets/e732d179-3c42-4425-a46c-889ce51d77d2)
 
 
 ---
